@@ -1,120 +1,80 @@
 # 📚 Library Management System
 
-A simple fucking **Library Management System** made for a fucking school project.
+A simple **Library Management System** made for my fucking school project.
 
-This project was created to demonstrate basic programming concepts, database operations, and the general ability to make something work without the entire computer exploding.
+Basically, this shit is for managing books, users, borrowing, returning, and other library related bullshit.
 
-## 🗿 Project Status
+## 🛠️ Technologies
 
-**Status:** 🪦 Abandoned / No Longer Maintained / RIP
-
-This project is no longer actively developed because...
-
-**it served its purpose.**
-
-It was made for a school requirement, the requirement was eventually completed, and now this poor bastard is sitting here in GitHub wondering what the fuck happened.
-
-May it rest in peace.
-
-**Вечная память, брат.**
+* PHP
+* MySQL
+* HTML
+* CSS
+* JavaScript
+* XAMPP
 
 ## ⚙️ Features
 
-The system includes basic library management functionality such as:
-
-* Managing books
-* Managing users
-* Borrowing books
-* Returning books
-* Tracking library records
-* Database interaction
+* Add books
+* Edit books
+* Delete books
+* Manage users
+* Borrow books
+* Return books
+* Store library records
 * Basic CRUD operations
 
-Nothing revolutionary.
+Simple shit. Nothing fancy.
 
-It is a school project, not the next fucking Amazon.
+## 🗄️ Database
 
-## 🛠️ Technologies Used
+Uses **MySQL** for storing:
 
-* **PHP**
-* **MySQL**
-* **HTML**
-* **CSS**
-* **JavaScript**
-* **XAMPP**
+* Books
+* Users
+* Borrowing records
+* Other library related data
 
-A classic stack for the classic experience:
+Because apparently, writing everything on paper was not fucking good enough.
 
-> "Why the fuck isn't Apache starting?"
+## 💀 Project Status
 
-followed by 30 minutes of staring at XAMPP and questioning your life choices.
+**Abandoned.**
 
-## 💀 Why Is This Here?
+This project was made for a school requirement and is no longer actively maintained.
 
-Because GitHub is basically a digital cemetery for old projects.
+It served its purpose.
 
-Some projects become successful startups.
+Now it can sit here peacefully like a forgotten piece of **govno** in the GitHub cemetery.
 
-Some become useful tools.
+## 🧪 Setup
 
-Some become abandoned after the professor says:
+1. Install **XAMPP**
+2. Put the project inside `htdocs`
+3. Start **Apache** and **MySQL**
+4. Import the SQL file in phpMyAdmin
+5. Open the project through `localhost`
 
-**"Okay, submitted."**
+If something breaks, **blyat**, check the database configuration first.
 
-This one belongs to the third category.
+## ⚠️ Disclaimer
 
-So technically...
+This project was created for **educational purposes only**.
 
-**the project is useless, but the experience wasn't.**
+It is not production ready, not optimized, and definitely not something that should be trusted with an actual fucking library.
 
-That's a win, blyaaaaat.
+Use at your own risk.
 
-## 🚧 Future Improvements
+**Pizdets guaranteed if you deploy this blindly.**
 
-There are currently no planned improvements.
+## 🪦 Final Status
 
-Could it be improved?
+**Made for school.**
 
-Absolutely.
+**Worked enough.**
 
-Will I improve it?
+**Submitted.**
 
-**НЕТ.**
+**Forgotten.**
 
-The project has been released from its suffering.
-
-If someone wants to continue developing it, they're free to do so.
-
-Good luck, братан.
-
-You're gonna fucking need it.
-
-## 📜 Disclaimer
-
-This project was created for **educational purposes** as part of a school project.
-
-It is not intended to be used as a production ready library management system.
-
-Please don't deploy this thing to manage an actual library.
-
-**For the love of God, don't.**
-
-## 🪦 Final Words
-
-Thank you for visiting this repository.
-
-You may now continue scrolling through GitHub looking for something actually useful.
-
-**Прощай, Library Management System.**
-
-You were not the best project.
-
-You were not the worst project.
-
-**You simply existed.**
-
-And honestly?
-
-That's enough.
-
-**BLYAT.**
+**Конец.**
