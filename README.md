@@ -2,7 +2,7 @@
 
 This project was created to demonstrate basic programming concepts, database operations, and the general ability to make something work without the entire computer exploding.
 
-##🗿 Project Status
+## 🗿 Project Status
 
 Status: 🪦 Abandoned / No Longer Maintained
 
@@ -16,7 +16,7 @@ May it rest in peace.
 
 Вечная память, брат.
 
-##⚙️ Features
+## ⚙️ Features
 
 The system includes basic library management functionality such as:
 
@@ -32,7 +32,7 @@ Nothing revolutionary.
 
 It is a school project, not the next fucking Amazon.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 PHP
 MySQL
 HTML
@@ -46,7 +46,7 @@ A classic stack for the classic experience:
 
 followed by 30 minutes of staring at XAMPP and questioning your life choices.
 
-##💀 Why Is This Here?
+## 💀 Why Is This Here?
 
 Because GitHub is basically a digital cemetery for old projects.
 
