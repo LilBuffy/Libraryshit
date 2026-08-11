@@ -1,12 +1,12 @@
 # 📚 Library Management System
 
-A simple **Library Management System** made for a school project.
+A simple fucking **Library Management System** made for a fucking school project.
 
 This project was created to demonstrate basic programming concepts, database operations, and the general ability to make something work without the entire computer exploding.
 
 ## 🗿 Project Status
 
-**Status:** 🪦 Abandoned / No Longer Maintained
+**Status:** 🪦 Abandoned / No Longer Maintained / RIP
 
 This project is no longer actively developed because...
 
