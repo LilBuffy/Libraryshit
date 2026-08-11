@@ -52,7 +52,7 @@ Now it can sit here peacefully like a forgotten piece of **govno** in the GitHub
 1. Install **XAMPP**
 2. Put the project inside `htdocs`
 3. Start **Apache** and **MySQL**
-4. Import the SQL file in phpMyAdmin
+4. Import the SQL and CSV file in phpMyAdmin
 5. Open the project through `localhost`
 
 If something breaks, **blyat**, check the database configuration first.
