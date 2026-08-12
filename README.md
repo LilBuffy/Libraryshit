@@ -4,6 +4,16 @@ A simple **Library Management System** made for my fucking school project.
 
 Basically, this shit is for managing books, users, borrowing, returning, and other library related bullshit.
 
+## 💀 Project Status
+
+**Abandoned.**
+
+This project was made for a school requirement and is no longer actively maintained.
+
+It served its purpose.
+
+Now it can sit here peacefully like a forgotten piece of **govno** in the GitHub cemetery.
+
 ## 🛠️ Technologies
 
 * PHP
@@ -36,16 +46,6 @@ Uses **MySQL** for storing:
 * Other library related data
 
 Because apparently, writing everything on paper was not fucking good enough.
-
-## 💀 Project Status
-
-**Abandoned.**
-
-This project was made for a school requirement and is no longer actively maintained.
-
-It served its purpose.
-
-Now it can sit here peacefully like a forgotten piece of **govno** in the GitHub cemetery.
 
 ## 🧪 Setup
 
