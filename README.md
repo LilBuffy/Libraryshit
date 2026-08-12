@@ -1,20 +1,32 @@
 # 📚 Library Management System
 
-A simple **Library Management System** made for my fucking school project.
+A fucking **Library Management System** I made for a school project.
 
-Basically, this shit is for managing books, users, borrowing, returning, and other library related bullshit.
+It handles books, users, borrowing, returning, and other library bullshit.
 
-## 💀 Project Status
+Basically, CRUD with extra steps.
 
-**Abandoned.**
+## 🪦 Project Status
 
-This project was made for a school requirement and is no longer actively maintained.
+**ABANDONED**
 
-It served its purpose.
+This shit was made for a school requirement.
 
-Now it can sit here peacefully like a forgotten piece of **govno** in the GitHub cemetery.
+Requirement done.
 
-## 🛠️ Technologies
+Project dead.
+
+No more updates.
+
+No more maintenance.
+
+No more fucking around.
+
+It has now been dumped into the GitHub graveyard where old school projects go to **пиздец**.
+
+May it rest in peace.
+
+## 🛠️ Tech Stack
 
 * PHP
 * MySQL
@@ -23,7 +35,11 @@ Now it can sit here peacefully like a forgotten piece of **govno** in the GitHub
 * JavaScript
 * XAMPP
 
-## ⚙️ Features
+Nothing revolutionary.
+
+Just the classic **PHP + MySQL + XAMPP gangbang**.
+
+## ⚙️ What This Shit Can Do
 
 * Add books
 * Edit books
@@ -32,49 +48,72 @@ Now it can sit here peacefully like a forgotten piece of **govno** in the GitHub
 * Borrow books
 * Return books
 * Store library records
-* Basic CRUD operations
+* Perform basic CRUD operations
 
-Simple shit. Nothing fancy.
+That's basically it.
+
+No AI.
+
+No blockchain.
+
+No fucking quantum computing.
+
+Just CRUD.
 
 ## 🗄️ Database
 
-Uses **MySQL** for storing:
+Uses **MySQL** because apparently we need a whole fucking database for some books and users.
+
+Stores:
 
 * Books
 * Users
 * Borrowing records
-* Other library related data
-
-Because apparently, writing everything on paper was not fucking good enough.
+* Other library bullshit
 
 ## 🧪 Setup
 
 1. Install **XAMPP**
-2. Put the project inside `htdocs`
+2. Put this shit inside `htdocs`
 3. Start **Apache** and **MySQL**
-4. Import the SQL and CSV file in phpMyAdmin
-5. Open the project through `localhost`
+4. Open phpMyAdmin
+5. Import the SQL and CSV files
+6. Open the project through `localhost`
 
-If something breaks, **blyat**, check the database configuration first.
+If it explodes:
+
+**BLYAAAAAT**
+
+Check the database configuration.
+
+Then check it again.
+
+Then question your life choices.
 
 ## ⚠️ Disclaimer
 
-This project was created for **educational purposes only**.
+This is a **school project**.
 
-It is not production ready, not optimized, and definitely not something that should be trusted with an actual fucking library.
+It is not production ready.
+
+It is not optimized.
+
+It is not secure enough for anything serious.
+
+Do not deploy this shit for an actual library unless you enjoy waking up to **пиздец**.
 
 Use at your own risk.
-
-**Pizdets guaranteed if you deploy this blindly.**
 
 ## 🪦 Final Status
 
 **Made for school.**
 
-**Worked enough.**
+**Made it work.**
 
 **Submitted.**
 
-**Forgotten.**
+**Never touched again.**
+
+**Rotting peacefully.**
 
 **Конец.**
