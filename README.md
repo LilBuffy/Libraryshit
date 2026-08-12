@@ -4,23 +4,13 @@ A fucking **Library Management System** I made for a school project.
 
 It handles books, users, borrowing, returning, and other library bullshit.
 
-Basically, CRUD with extra steps.
-
 ## 🪦 Project Status
 
 **ABANDONED**
 
 This shit was made for a school requirement.
 
-Requirement done.
-
-Project dead.
-
-No more updates.
-
-No more maintenance.
-
-No more fucking around.
+Requirement done. Project dead. No more updates. No more maintenance. No more fucking around.
 
 It has now been dumped into the GitHub graveyard where old school projects go to **пиздец**.
 
@@ -35,10 +25,6 @@ May it rest in peace.
 * JavaScript
 * XAMPP
 
-Nothing revolutionary.
-
-Just the classic **PHP + MySQL + XAMPP gangbang**.
-
 ## ⚙️ What This Shit Can Do
 
 * Add books
@@ -49,16 +35,6 @@ Just the classic **PHP + MySQL + XAMPP gangbang**.
 * Return books
 * Store library records
 * Perform basic CRUD operations
-
-That's basically it.
-
-No AI.
-
-No blockchain.
-
-No fucking quantum computing.
-
-Just CRUD.
 
 ## 🗄️ Database
 
@@ -80,10 +56,6 @@ Stores:
 5. Import the SQL and CSV files
 6. Open the project through `localhost`
 
-If it explodes:
-
-**BLYAAAAAT**
-
 Check the database configuration.
 
 Then check it again.
@@ -103,14 +75,6 @@ It is not secure enough for anything serious.
 Do not deploy this shit for an actual library unless you enjoy waking up to **пиздец**.
 
 Use at your own risk.
-
-## 🪦 Final Status
-
-**Made for school.**
-
-**Made it work.**
-
-**Submitted.**
 
 **Never touched again.**
 
