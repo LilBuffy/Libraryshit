@@ -1,20 +1,20 @@
 # 📚 Library Management System
 
-Isang **Library Management System** na ginawa ko para sa school project namin.
+A fucking **Library Management System** na ginawa ko para sa school project namin.
 
-Kaya nitong mag manage ng books, users, borrowing, returning, at iba pang library stuff.
+Kaya nitong mag manage ng books, users, borrowing, returning, at iba pang library bullshit.
 
 ## 🪦 Project Status
 
 **ABANDONED**
 
-Ginawa ko lang para sa school requirement.
+School requirement lang ’to.
 
-Requirement done. Tapos na. Wala nang updates, maintenance, o fucking- WHAT?!.
+Tapos na requirement, patay na project. Walang updates, walang maintenance, wala nang fucking pakialam.
 
-Nasa GitHub graveyard na siya kasama ng ibang lumang school projects.
+Nasa GitHub graveyard na kung saan nililibing ang mga lumang school projects.
 
-**Пиздец. Rest in peace.**
+**пиздец.**
 
 ## 🛠️ Tech Stack
 
@@ -25,45 +25,41 @@ Nasa GitHub graveyard na siya kasama ng ibang lumang school projects.
 * JavaScript
 * XAMPP
 
-## ⚙️ Features
+## ⚙️ What This Shit Can Do
 
-* Add, edit, at delete books
-* Manage users
-* Borrow at return books
-* Store library records
+* Mag add ng books
+* Mag edit at delete ng books
+* Mag manage ng users
+* Mag borrow at return ng books
+* Mag store ng library records
 * Basic CRUD operations
 
 ## 🗄️ Database
 
-Gumagamit ng **MySQL** para sa:
+MySQL ang gamit kasi apparently kailangan natin ng buong fucking database para sa mga libro at users.
+
+Nagse save ng:
 
 * Books
 * Users
 * Borrowing records
-* Ibang library data
+* Iba pang library bullshit
 
 ## 🧪 Setup
 
 1. Install **XAMPP**
-2. Ilagay sa `htdocs`
+2. Ilagay ang shit na ’to sa `htdocs`
 3. Start **Apache** at **MySQL**
-4. Buksan ang phpMyAdmin
+4. Open **phpMyAdmin**
 5. Import ang SQL at CSV files
-6. Buksan gamit ang `localhost`
+6. Open gamit ang `localhost`
 7. Check ang database configuration
-
-Kapag ayaw gumana, check ulit. Kapag ayaw pa rin, **ambot sa imo.**
+8. Check ulit kasi baka may bullshit kang nakalimutan
 
 ## ⚠️ Disclaimer
 
-School project lang ito.
+**School project lang ’to lods.**
 
-Hindi production ready, hindi optimized, at hindi sapat ang security para sa seryosong paggamit.
+Hindi production ready. Hindi optimized. At hindi sapat ang security para sa seryosong paggamit.
 
-Huwag gamitin sa totoong library unless gusto mong salubungin ang **пиздец**.
-
-**Never touched again.**
-
-**Rotting peacefully.**
-
-**Конец.**
+Huwag mong gamitin sa totoong library unless gusto mong magising isang araw sa **пиздец**.
