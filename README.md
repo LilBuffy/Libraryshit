@@ -1,20 +1,20 @@
 # 📚 Library Management System
 
-A fucking **Library Management System** I made for a school project.
+Isang **Library Management System** na ginawa ko para sa school project namin.
 
-It handles books, users, borrowing, returning, and other library bullshit.
+Kaya nitong mag manage ng books, users, borrowing, returning, at iba pang library stuff.
 
 ## 🪦 Project Status
 
 **ABANDONED**
 
-This shit was made for a school requirement.
+Ginawa ko lang para sa school requirement.
 
-Requirement done. Project dead. No more updates. No more maintenance. No more fucking around.
+Requirement done. Tapos na. Wala nang updates, maintenance, o fucking- WHAT?!.
 
-It has now been dumped into the GitHub graveyard where old school projects go to **пиздец**.
+Nasa GitHub graveyard na siya kasama ng ibang lumang school projects.
 
-May it rest in peace.
+**Пиздец. Rest in peace.**
 
 ## 🛠️ Tech Stack
 
@@ -25,56 +25,42 @@ May it rest in peace.
 * JavaScript
 * XAMPP
 
-## ⚙️ What This Shit Can Do
+## ⚙️ Features
 
-* Add books
-* Edit books
-* Delete books
+* Add, edit, at delete books
 * Manage users
-* Borrow books
-* Return books
+* Borrow at return books
 * Store library records
-* Perform basic CRUD operations
+* Basic CRUD operations
 
 ## 🗄️ Database
 
-Uses **MySQL** because apparently we need a whole fucking database for some books and users.
-
-Stores:
+Gumagamit ng **MySQL** para sa:
 
 * Books
 * Users
 * Borrowing records
-* Other library bullshit
+* Ibang library data
 
 ## 🧪 Setup
 
 1. Install **XAMPP**
-2. Put this shit inside `htdocs`
-3. Start **Apache** and **MySQL**
-4. Open phpMyAdmin
-5. Import the SQL and CSV files
-6. Open the project through `localhost`
+2. Ilagay sa `htdocs`
+3. Start **Apache** at **MySQL**
+4. Buksan ang phpMyAdmin
+5. Import ang SQL at CSV files
+6. Buksan gamit ang `localhost`
+7. Check ang database configuration
 
-Check the database configuration.
-
-Then check it again.
-
-Then question your life choices.
+Kapag ayaw gumana, check ulit. Kapag ayaw pa rin, **ambot sa imo.**
 
 ## ⚠️ Disclaimer
 
-This is a **school project**.
+School project lang ito.
 
-It is not production ready.
+Hindi production ready, hindi optimized, at hindi sapat ang security para sa seryosong paggamit.
 
-It is not optimized.
-
-It is not secure enough for anything serious.
-
-Do not deploy this shit for an actual library unless you enjoy waking up to **пиздец**.
-
-Use at your own risk.
+Huwag gamitin sa totoong library unless gusto mong salubungin ang **пиздец**.
 
 **Never touched again.**
 
