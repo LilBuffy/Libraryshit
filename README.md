@@ -1,65 +1,35 @@
-# 📚 Library Management System
+# Library Management System
 
-A fucking **Library Management System** na ginawa ko para sa school project namin.
+Isang fucking Library Management System built with **PHP, MySQL, HTML, CSS, and JavaScript**, made as a school project kasi apparently kailangan ko ring gumawa ng sariling sistema para sa mga librong tahimik lang naman sa shelf. Kaya nitong mag manage ng books, users, borrowing, returning, records, at basic CRUD operations. Basically, library bullshit pero naka PHP.
 
-Kaya nitong mag manage ng books, users, borrowing, returning, at iba pang library bullshit.
+**Project Status:** ABANDONED / SCHOOL PROJECT
 
-## 🪦 Project Status
+Tapos na ang requirement, patay na ang project. Walang updates, walang maintenance, wala nang fucking pakialam. Nasa GitHub graveyard na kung saan nililibing ang mga lumang school projects. ПИЗДЕЦ.
 
-**ABANDONED**
+### What This Shit Can Do
 
-School requirement lang ’to.
+The system can **add, edit, and delete books, manage users, borrow and return books, store borrowing records, and handle basic CRUD operations**. Simple lang ang buong concept, pero enough siya para ma practice ang database operations, forms, user management, at actual PHP logic.
 
-Tapos na requirement, patay na project. Walang updates, walang maintenance, wala nang fucking pakialam.
+Basically, **Add Book → Borrow Book → Return Book → Record Saved → Library survives another fucking day.**
 
-Nasa GitHub graveyard na kung saan nililibing ang mga lumang school projects.
+### Database
 
-**пиздец.**
+**MySQL** ang gamit para i store ang actual library data, including **books, users, borrowing records, and other necessary information**. May SQL files din para sa database setup and sample book data, dahil apparently kailangan natin ng buong fucking database para lang malaman kung sino ang nanghiram ng libro.
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-* PHP
-* MySQL
-* HTML
-* CSS
-* JavaScript
-* XAMPP
+**PHP, MySQL, HTML, CSS, JavaScript, and XAMPP.**
 
-## ⚙️ What This Shit Can Do
+PHP handles the backend logic, MySQL handles the data, while HTML, CSS, and JavaScript handle the frontend. Simple stack lang. Walang giant framework, walang unnecessary dependencies, just enough shit para gumana ang isang basic library system.
 
-* Mag add ng books
-* Mag edit at delete ng books
-* Mag manage ng users
-* Mag borrow at return ng books
-* Mag store ng library records
-* Basic CRUD operations
+### About
 
-## 🗄️ Database
+This was made as a **school project** para ma practice ang basic PHP, MySQL, CRUD operations, user management, book management, at borrowing systems.
 
-MySQL ang gamit kasi apparently kailangan natin ng buong fucking database para sa mga libro at users.
+Hindi production ready, hindi optimized, at hindi ginawa para maging next generation library software.
 
-Nagse save ng:
+School project lang, lods.
 
-* Books
-* Users
-* Borrowing records
-* Iba pang library bullshit
+Nasa GitHub graveyard na siya ngayon.
 
-## 🧪 Setup
-
-1. Install **XAMPP**
-2. Ilagay ang shit na ’to sa `htdocs`
-3. Start **Apache** at **MySQL**
-4. Open **phpMyAdmin**
-5. Import ang SQL at CSV files
-6. Open gamit ang `localhost`
-7. Check ang database configuration
-8. Check ulit kasi baka may bullshit kang nakalimutan
-
-## ⚠️ Disclaimer
-
-**School project lang ’to lods.**
-
-Hindi production ready. Hindi optimized. At hindi sapat ang security para sa seryosong paggamit.
-
-Huwag mong gamitin sa totoong library unless gusto mong magising isang araw sa **пиздец**.
+пока живой.
